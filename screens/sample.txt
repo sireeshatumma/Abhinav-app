@@ -1,0 +1,125 @@
+
+
+const timeImage={
+
+{ img1: require("../assets/images/midnight moon.jpg") },
+{ img2: require("../assets/images/morning sun.jpg") },
+{ img3: require("../assets/images/afternoon sun.jpg") },
+{ img4: require("../assets/images/evening sun.jpg") },
+{ img5: require("../assets/images/moon at 8.jpg") },
+{ img6: require("../assets/images/moon at 11.jpg") },
+{ img7: require("../assets/images/morning sun.jpg") },     
+    }    
+    switch (0) {
+      case 0:
+        this.setState({ img:"img1" });
+        break;
+      case 1:
+        this.setState({ img:"img1" });
+        break;
+      case 2:
+        this.setState({ img:"img1" });
+        break;
+      case 3:
+        this.setState({ img:"img1"});
+        break;
+      case 4:
+        this.setState({ img: "img1" });
+        break;
+      case 5:
+        this.setState({ img: "img2" });
+        break;
+      case 6:
+        this.setState({ img:"img2" });
+        break;
+      case 7:
+        this.setState({ img: "img2" });
+        break;
+      case 8:
+        this.setState({ img: "img2" });
+        break;
+      case 9:
+        this.setState({ img: "img2" });
+        break;
+      case 10:
+        this.setState({ img: "img3" });
+        break;
+      case 11:
+        this.setState({ img:"img3" });
+        break;
+      case 12:
+        this.setState({ img:"img3" });
+        break;
+      case 13:
+        this.setState({ img: "img3" });
+        break;
+      case 14:
+        this.setState({ img: "img3" });
+        break;
+      case 15:
+        this.setState({ img: "img3" });
+        break;
+      case 16:
+        this.setState({ img:"img4"});
+        break;
+      case 17:
+        this.setState({ img: "img4" });
+        break;
+      case 18:
+        this.setState({ img: "img4" });
+        break;
+      case 19:
+        this.setState({ img: "img5" });
+        break;
+      case 20:
+        this.setState({ img: "img5" });
+        break;
+      case 21:
+        this.setState({ img: "img5" });
+        break;
+      case 22:
+        this.setState({ img: "img6" });
+        break;
+      case 23:
+        this.setState({ img: "img6" });
+        break;
+      default:
+        this.setState({ img: "img1" });
+        break;
+    }
+  
+  
+
+
+
+
+
+const timeImage={
+
+{ img: require("../assets/images/midnight moon.jpg") },
+{ img: require("../assets/images/midnight moon.jpg") },
+{ img: require("../assets/images/midnight moon.jpg") },
+{ img: require("../assets/images/midnight moon.jpg") },
+{ img: require("../assets/images/midnight moon.jpg") },
+{ img: require("../assets/images/morning sun.jpg") },
+{img: require("../assets/images/morning sun.jpg") },
+{ img: require("../assets/images/morning sun.jpg") },
+{ img: require("../assets/images/morning sun.jpg") },
+{ img: require("../assets/images/morning sun.jpg") },
+    { img: require("../assets/images/afternoon sun.jpg") },
+{ img: require("../assets/images/afternoon sun.jpg") },
+{ img: require("../assets/images/afternoon sun.jpg") },
+{ img: require("../assets/images/afternoon sun.jpg") },
+{ img: require("../assets/images/afternoon sun.jpg") },
+    { img: require("../assets/images/afternoon sun.jpg") },
+    { img: require("../assets/images/evening sun.jpg") },
+      { img: require("../assets/images/evening sun.jpg") },
+      { img: require("../assets/images/evening sun.jpg") },
+     { img: require("../assets/images/moon at 8.jpg") },
+     { img: require("../assets/images/moon at 8.jpg") },
+     { img: require("../assets/images/moon at 8.jpg") },
+     { img: require("../assets/images/moon at 11.jpg") },
+{ img: require("../assets/images/moon at 11.jpg") },
+{ img: require("../assets/images/morning sun.jpg") },
+     
+    }
